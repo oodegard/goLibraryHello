@@ -2,6 +2,6 @@ package GoSamplePackage
 
 import "fmt"
 
-func helo() {
+func Helo() {
 	fmt.Println("Hello World")
 }
