@@ -1,3 +1,3 @@
-module github.com/oodegard/goLibraryHello
+module github.com/oodegard/goLibraryHello/GoSamplePackage
 
 go 1.20
