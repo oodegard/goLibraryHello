@@ -8,6 +8,10 @@ import (
 	"net/http"
 )
 
+func ApiTest() {
+	fmt.Println("This is a test")
+}
+
 // getSamplesID retrieves samples from the eLabJournal API.
 // If the sampleTypeID argument is not nil, the function will only retrieve samples with the specified sample type ID.
 // If the sampleTypeID argument is nil, the function will retrieve all samples.
