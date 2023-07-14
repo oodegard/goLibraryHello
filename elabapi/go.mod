@@ -1,3 +1,3 @@
-module "github.com/oodegard/golibs/elabjournal"
+module "github.com/oodegard/golibs/elabapi"
 
 go 1.20
